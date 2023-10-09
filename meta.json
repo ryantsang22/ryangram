@@ -21,8 +21,8 @@
                     "createdAt": "2023-09-25T21:16:35.824Z",
                     "updatedAt": "2023-09-25T21:16:35.824Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e53550fc04bbc1b1c4be/projects/6509c22c13d3cb69e21ebb6b/assets/6511f8b3d7404b02fb496901?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230925%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230925T211635Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=8d38700a0036942f96d1b82fb428f8bc179d5e4ed703046620ea5479aeb0387291b8e01a31a45b68d3b56de8b446b6a5a71a53665bdb464f728857291b7861485e6654caf8e86342ccd7a35060fef8ee991076b638b864fb69440161ec39f3a7706a7c6204f472455b33d2d57a6e1db05fc7871c424e6308712d8b32f509ca46c7e78f39c55b76ae68bdb89dbd77925f627ba2027e983fc8832f5d86ac0a8e492723b433bcf013c522b56a595526476d2b6a44305b8a258771bbefc7730c559d702e9baf0ec67dd4fcce4a6a0ce134513330f69567cf70510e07983ff0de053db68c779d62818c4676d0300f4e837ca9797b53e690c367baf4258f02f45ed934",
-                    "signedUrlExpirationTime": 1695849395882
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e53550fc04bbc1b1c4be/projects/6509c22c13d3cb69e21ebb6b/assets/6511f8b3d7404b02fb496901?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231008%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231008T231912Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=64d55bb7bc5e8c8b862518afecedfef3e14cc68534a53171af3337344004811395502e9b782c43c267ad7901e1c3df86296b06392cf05d28e9dfd7fe4e48d9622fd5616ecc9b22b342d84814185f401ae94326d48e2fbc9da2591fafb81f60299c622550cdfcc647b5a1f4325bf7baa048358a22c748d87f9e4cc1053828c85024dda07dd0eac56504cd9f5d235735447eb1a41470e6790f7d9e8e7dcd670651556a24e41a288533e4d25c6460e3a20f0b7763f2db08a543c5ca039a1059ae66dc61d5b9d5678040b076b81636f3969acc2bda0fd58b54f8a21512cb9e53433abd564204fd35a3f4706e4417676b4e5d0907b80f9ac7c7e97fd30cea0d4c0789",
+                    "signedUrlExpirationTime": 1696979952558
                 }
             },
             "backendUpgradeVersion": 21,
@@ -82,7 +82,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Sign In Store Details",
+            "projectName": "ryangram",
             "settings": {
                 "teamId": null,
                 "appName": null,
@@ -114,10 +114,7 @@
                 "cloudinaryAPISecret": null,
                 "permissions": {
                     "ios": {
-                        "usageDescriptions": {
-                            "NSCameraUsageDescription": "",
-                            "NSPhotoLibraryUsageDescription": ""
-                        }
+                        "usageDescriptions": {}
                     }
                 },
                 "googleMapAPIKeyAndroid": null,
@@ -128,7 +125,7 @@
                 "appleOAuthWebClientID": null,
                 "appleOAuthWebRedirectURI": null,
                 "admobAppIdIOS": null,
-                "admobAppIdAndroid": null,
+                "admobAppIdAndroid": "ca-app-pub-8107633808559615~9125819661",
                 "admobUserTrackingUsageDescription": null,
                 "__typename": "ProjectSettings"
             },
@@ -163,10 +160,7 @@
                 "cloudinaryAPISecret": null,
                 "permissions": {
                     "ios": {
-                        "usageDescriptions": {
-                            "NSCameraUsageDescription": "",
-                            "NSPhotoLibraryUsageDescription": ""
-                        }
+                        "usageDescriptions": {}
                     }
                 },
                 "googleMapAPIKeyAndroid": null,
@@ -177,11 +171,11 @@
                 "appleOAuthWebClientID": null,
                 "appleOAuthWebRedirectURI": null,
                 "admobAppIdIOS": null,
-                "admobAppIdAndroid": null,
+                "admobAppIdAndroid": "ca-app-pub-8107633808559615~9125819661",
                 "admobUserTrackingUsageDescription": null,
                 "__typename": "ProjectSettings"
             },
-            "hasAdmob": false,
+            "hasAdmob": true,
             "hasBluetoothLowEnergy": null,
             "hasPushNotification": false,
             "hasAssistant": null,
